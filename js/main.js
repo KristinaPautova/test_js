@@ -118,7 +118,9 @@ let person1 = {
         location: {
             str: 'Manas str 66',
             city: 'Bishkek',
+            room: 'Kris'
         },
+
     },
 };
 
